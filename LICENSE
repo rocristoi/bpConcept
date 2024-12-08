@@ -1,0 +1,35 @@
+# GNU Affero General Public License v3.0
+
+**bpConcept**  
+Copyright (C) 2024 Capota Cristian
+
+This program is free software: you can redistribute it and/or modify  
+it under the terms of the GNU Affero General Public License as published by  
+the Free Software Foundation, either version 3 of the License, or  
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,  
+but WITHOUT ANY WARRANTY; without even the implied warranty of  
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the  
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License  
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+---
+
+## How to Comply with the License
+
+If you modify and use this software, you must:
+1. **Distribute Source Code**: If you distribute this program or a derivative, you must make the source code available under the AGPL v3 license.
+2. **Network Use Clause**: If you use this program to provide a service over a network (e.g., a web app), you must also make the source code of the modified version available to users of that service.
+
+For more information, read the full AGPL license at <https://www.gnu.org/licenses/agpl-3.0.html>.
+
+---
+
+**Project Details**  
+- **Name**: bpConcept  
+- **Author**: Capota Cristian
+- **Year**: 2024
+
