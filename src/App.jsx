@@ -11,22 +11,22 @@ import Footer from './components/footer'
 function App() {
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/bpConcept">
       <Routes>
-        <Route path="/bpConcept" element={
+        <Route path="/" element={
           <div className="relative z-0 bg-primary">
             <div className="lg:bg-hero-pattern lg:bg-cover lg:bg-no-repeat lg:bg-center overflow-x-hidden">
               <Navbar />
               <Hero />
-              <Artists/>
+              <Artists />
               <Prices />
-              <Footer/>
+              <Footer />
             </div>
-  
           </div>
         } />
       </Routes>
     </BrowserRouter>
+
   )
 }
 
